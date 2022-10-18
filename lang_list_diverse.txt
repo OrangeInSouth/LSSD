@@ -1,0 +1,9 @@
+bos
+mar
+hin
+mkd
+ell
+bul
+fra
+kor
+eng
